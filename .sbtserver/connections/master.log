@@ -1,0 +1,16 @@
+New log file opened at Sun Dec 13 11:52:39 CST 2015 by 2023@zyhdeMacBook-Pro.local
+Taking next connection to: 53951
+New client attempting to connect on port: 53952-53951
+  Address = /172.16.247.3:53951
+This client on port 53952 has uuid 3c405ce1-a623-4346-9116-61971cd78c0f configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-3c405ce1-a623-4346-9116-61971cd78c0f
+Taking next connection to: 53951
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 53951
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 53951
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 53951
